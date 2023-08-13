@@ -7,6 +7,6 @@ My research interests include:
 - Statistical artifacts and their impact on research findings
 - Substantive interests: cognitive ability
 
-Currently Working on {posc} and {theme_park} packages for R. I also maintain the OpenSynthesis website that catalogs publicly available meta-analytic datasets.
+Currently Working on {posc} and {ThemePark} packages for R. I also maintain the OpenSynthesis website that catalogs publicly available meta-analytic datasets.
 
 
