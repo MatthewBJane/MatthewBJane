@@ -8,6 +8,6 @@ My research interests include:
 - Data Visualization
 - Open Science
 
-For more info, check out my website at [matthewbjane.com](matthewbjane.com). Also check out my blog, [Meta-Analysis Magic](matthewbjane.com/blog)
+For more info, check out my website at [matthewbjane.com](https://matthewbjane.com). Also check out my blog, [Meta-Analysis Magic](https://matthewbjane.com/blog)
 
 
