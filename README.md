@@ -1,6 +1,6 @@
 ### Hello There!
 
-My name is Matthew and I am a Quantitative Psychology PhD student at the University of Connecticut. I am fairly active on Twitter, you can find me there at @MatthewBJane.
+My name is Matthew and I am a Quantitative Psychology PhD student at the University of Connecticut. I am fairly active on Twitter, you can find me there @MatthewBJane.
 
 My research interests include:
 - Developing statistical methods and software for meta-analysis
