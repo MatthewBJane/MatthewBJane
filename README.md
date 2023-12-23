@@ -7,6 +7,6 @@ My research interests include:
 - Data visualization
 - Open science
 
-See my new open-access textbook at [matthewbjane.quarto.pub/artifact-corrections-for-effect-sizes](https://matthewbjane.quarto.pub). For more info, check out my website at [matthewbjane.com](https://matthewbjane.com). Also check out my blog, [Meta-Analysis Magic](https://matthewbjane.com/blog). 
+For more info, check out my website at [matthewbjane.com](https://matthewbjane.com). Also check out my blog, [Meta-Analysis Magic](https://matthewbjane.com/blog). 
 
 
