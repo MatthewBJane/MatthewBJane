@@ -1,12 +1,9 @@
 ### Hello There!
 
-My name is Matthew and I am a Quantitative Psychology PhD student at the University of Connecticut. I am fairly active on Twitter, you can find me there @MatthewBJane.
+My name is Matthew and I am a forensic meta-scientist and a PhD candidate in Quantitative Psychology and Neuroscience.
 
-My research interests include:
-- Developing statistical methods and software for meta-analysis
-- Data visualization
-- Open science
+Check out [AuditcClinicalEvidence.org](https://AuditClinicalEvidence.org) for the latest forensic meta-science work. All source code is available in the `ace` repository.
 
-For more info, check out my website at [matthewbjane.com](https://matthewbjane.com). Also check out my blog, [Meta-Analysis Magic](https://matthewbjane.com/blog). 
+For more info, check out my website at [matthewbjane.com](https://matthewbjane.com). 
 
 
